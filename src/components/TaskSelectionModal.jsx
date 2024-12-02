@@ -179,14 +179,14 @@ export default function TaskSelectionModal({ onClose, todos }) {
                     fill="none"
                     stroke="currentColor"
                     strokeWidth="4"
-                    d="M4 25a21 21 0 0111-18.78"
+                    d="M25 5a20 20 0 0115.36 8.64"
                   >
-                    <animate
-                      attributeName="d"
-                      begin="0s"
-                      dur="1.5s"
-                      values="M4 25a21 21 0 0111-18.78; M4 25a21 21 0 010 37.56; M4 25a21 21 0 0111-18.78"
-                      keyTimes="0; 0.5; 1"
+                    <animateTransform
+                      attributeName="transform"
+                      type="rotate"
+                      from="0 25 25"
+                      to="360 25 25"
+                      dur="1s"
                       repeatCount="indefinite"
                     />
                   </path>

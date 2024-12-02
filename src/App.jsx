@@ -116,7 +116,7 @@ const App = () => {
           <div className="relative w-full sm:w-80">
             <input
               type="text"
-              placeholder="Search Todos"
+              placeholder="🔍 Search Todos by name"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)} // Update search query
               className="px-4 py-2 border rounded-md w-full"

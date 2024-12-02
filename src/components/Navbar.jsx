@@ -51,7 +51,7 @@ const Navbar = () => {
           {["Home", "About", "Contact"].map((item, index) => (
             <li key={index}>
               <a
-                href={`#${item.toLowerCase()}`}
+                href={`${item.toLowerCase()}`}
                 className='relative z-10 pb-1 hover:after:scale-x-100 after:scale-x-0 after:origin-center after:block after:h-[3px] after:transition-transform after:duration-300 after:ease-out after:rounded-lg after:bg-white'
               >
                 {item}
