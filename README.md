@@ -71,6 +71,8 @@ npm run dev
 # Build for production
 npm run build
 
+**\`\`\`**
+
 🚀 Usage
 
 Open SmartTask in your browser
