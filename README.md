@@ -1,8 +1,106 @@
-# React + Vite
+# 🌟 SmartTask – Frontend  
+![React](https://img.shields.io/badge/Frontend-React-61DBFB?logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed%20On-Vercel-black?logo=vercel)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **SmartTask** – Prioritize, Plan, and Achieve with Ease! 🚀  
+Your intelligent **to-do list scheduler** that uses **Linear Programming** to create **optimized task schedules** tailored to your productivity.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Live Demo  
+🔗 **[SmartTask Frontend](https://rajshakya0101.github.io/smart-task-frontend/)**  
+
+---
+
+## ✨ Features
+- 📝 Add, edit, and delete your tasks seamlessly  
+- 🧠 Uses **Linear Programming (LPP)** for **task optimization**  
+- 📅 Automatically generates the **best schedule** based on priorities  
+- 🎨 **Beautiful UI** built with **React + Tailwind CSS**  
+- 📱 Fully **responsive** and optimized for all devices  
+- 🚀 Deployed on **Vercel** for fast performance  
+
+---
+
+## 🖼️ Screenshots  
+
+### **Landing Page**  
+![Landing Page](./screenshots/smarttask-landing.png)
+
+### **Task List**  
+![Task List](./screenshots/smarttask-tasklist.png)
+
+### **Task Optimization**  
+![Optimization](./screenshots/smarttask-optimization.png)
+
+> *(Replace these placeholders with your uploaded screenshots for better visuals.)*
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend Framework**: [React](https://reactjs.org/)
+- **UI Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment**: [Vercel](https://vercel.com/)
+- **Backend API**: [Flask](https://flask.palletsprojects.com/) (Hosted on Render)
+
+---
+
+## 📂 Folder Structure
+smart-task-frontend/
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable components
+│ ├── pages/ # Page components
+│ ├── hooks/ # Custom hooks
+│ ├── styles/ # Tailwind config & global styles
+│ ├── App.jsx # App entry point
+│ └── main.jsx # Main file
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
+
+
+---
+
+## ⚡ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/Rajshakya0101/smart-task-frontend.git
+
+# Navigate to the project folder
+cd smart-task-frontend
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+🚀 Usage
+
+Open SmartTask in your browser
+
+Add your tasks with name, priority, and duration
+
+Hit "Get SmartTask Schedule"
+
+Sit back and watch your optimized schedule appear ✨
+
+📡 API Integration
+
+This frontend connects to the SmartTask Backend API for optimization calculations:
+🔗 SmartTask Backend Repo
+
+👨‍💻 Author
+
+Raj Shakya
+📧 rajshakya.orai18@gmail.com
+
+🌐 LinkedIn
+ | GitHub
