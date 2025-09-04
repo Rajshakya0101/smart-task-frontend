@@ -92,4 +92,5 @@ Raj Shakya
 📧 rajshakya.orai18@gmail.com
 
 🌐 LinkedIn
+![LinkedIn](https://www.linkedin.com/in/raj-shakya-8b205225b/)
  | GitHub
