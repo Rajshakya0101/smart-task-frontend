@@ -38,8 +38,6 @@ Your intelligent **to-do list scheduler** that uses **Linear Programming** to cr
 ### **Task Result**  
 ![Result](./screenshots/smarttask-result.png)
 
-> *(Replace these placeholders with your uploaded screenshots for better visuals.)*
-
 ---
 
 ## 🛠️ Tech Stack
