@@ -36,7 +36,7 @@ Your intelligent **to-do list scheduler** that uses **Linear Programming** to cr
 ![Optimization](./screenshots/smarttask-optimization.png)
 
 ### **Task Result**  
-![Optimization](./screenshots/smarttask-result.png)
+![Result](./screenshots/smarttask-result.png)
 
 > *(Replace these placeholders with your uploaded screenshots for better visuals.)*
 
@@ -51,19 +51,7 @@ Your intelligent **to-do list scheduler** that uses **Linear Programming** to cr
 ---
 
 ## 📂 Folder Structure
-smart-task-frontend/
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable components
-│ ├── pages/ # Page components
-│ ├── hooks/ # Custom hooks
-│ ├── styles/ # Tailwind config & global styles
-│ ├── App.jsx # App entry point
-│ └── main.jsx # Main file
-├── package.json
-├── tailwind.config.js
-└── vite.config.js
-
+![Folder Structure](./screenshots/smarttask-folderStructure.png)
 
 ---
 
