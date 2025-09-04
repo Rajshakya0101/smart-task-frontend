@@ -86,6 +86,8 @@ Sit back and watch your optimized schedule appear ✨
 This frontend connects to the SmartTask Backend API for optimization calculations:
 🔗 SmartTask Backend Repo
 
+---
+
 👨‍💻 Author
 
 Raj Shakya
